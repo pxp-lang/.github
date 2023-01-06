@@ -1,1 +1,1 @@
-![PXP](./art/header.png)
+![PXP](/profile/art/header.png)
