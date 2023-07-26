@@ -1,5 +1,3 @@
-![PXP](/profile/art/header.png)
-
 PXP is a superset of the PHP programming language with extended syntax and runtime capabilities.
 
 The project itself covers the development of the transpiler, as well as a language server for PHP and PXP projects, static analyser and more.
