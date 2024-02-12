@@ -1,6 +1,4 @@
-PXP is a superset of the PHP programming language with extended syntax and runtime capabilities.
-
-The project itself covers the development of the transpiler, as well as a language server for PHP and PXP projects, static analyser and more.
+PXP is a project that aims to develop a suite of high-performance tools for PHP developers – includes a code formatter, static analyser, language server and superset language.
 
 For more information about the PXP language, visit [the official website](https://pxplang.org).
 
